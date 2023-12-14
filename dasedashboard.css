@@ -34,9 +34,6 @@ table{
     
     /* width: 61.5%; */
     margin-top: 5px;
-   
-   
-     
     /* height: 100vh;
     padding: 10px 10px; */
 
@@ -60,9 +57,6 @@ table, td, th{
     border: 1px solid;
     border-collapse: collapse;
     border-color: white; 
-   
-   
-
 }
 th, td{
     padding: 18.5px;
@@ -72,8 +66,6 @@ th{
     background-color: rgb(206, 207, 207);
     color: rgb(0, 0, 0);
     width:150px;
-
-
 }
 td{
     text-align: center;
